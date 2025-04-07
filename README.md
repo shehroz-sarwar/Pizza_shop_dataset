@@ -1,11 +1,11 @@
 # Pizza Sales Analysis
 
-This repository contains resources for analyzing pizza sales data, utilizing Excel for raw data and SQL for database queries and insights.
+Contains resources for analyzing pizza sales data, utilizing Excel for raw data and SQL for database queries and insights.
 
 ## Repository Contents
 
 - `pizza_sales_excel_file.xlsx`: Excel file containing the raw pizza sales dataset.
-- `General_SQL_quries.docx`: A Document containing 
+- `General_SQL_quries.docx`: A Document containing SQL quries.
 
 ## SQL Queries Included
 
